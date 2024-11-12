@@ -1,7 +1,15 @@
 <a align="center">
 <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>   
 </a>
+<a align="center">
 
+ [![Email](https://img.shields.io/badge/Email-your_email@example.com-blue)](mailto:your_email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-your_discord_username-blue)](https://discord.com/users/your_discord_username)
+[![Instagram](https://img.shields.io/badge/Instagram-your_instagram_handle-blue)](https://www.instagram.com/your_instagram_handle)
+[![TikTok](https://img.shields.io/badge/TikTok-your_tiktok_handle-blue)](https://www.tiktok.com/@your_tiktok_handle)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow)](https://www.buymeacoffee.com/your_username)
+[![Ko-fi](https://img.shields.io/badge/Ko-fi-donate-yellow)](https://ko-fi.com/your_username)
+</a>
 
 
 ## 💫 About Me:
