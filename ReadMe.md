@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a passionate gamer and aspiring game developer. I enjoy spending my free time honing my skills in various games, and I'm always eager to learn new strategies and techniques.<br><br>I've started my coding journey with HTML and CSS, and I'm excited to delve deeper into JavaScript, Python, and C++. My goal is to master these languages and use them to create immersive and engaging gaming experiences.<br><br>I'm constantly seeking new challenges and opportunities to expand my knowledge and skills. I'm confident that with hard work and dedication, I can achieve my dream of becoming a successful game developer.
+Hi! I'm Stijn. I'm really into video games. I love playing them and I'm curious about how they're made. That's why I'm learning to code.
+I've started with HTML and CSS. These are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding skills to create my own games and other cool projects.
+I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding!
+
 
 
 ## 🌐 Socials:
