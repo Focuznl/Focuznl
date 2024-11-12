@@ -1,5 +1,5 @@
 <picture align="center">
-<img src=https://github.com/Focuznl/VMFocuz/Images/Headbanner.png>
+<img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/fcznldark.png>
 </picture>
 
 
