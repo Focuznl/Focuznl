@@ -1,6 +1,6 @@
 <a align="center">    <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>    </a>
 <p align="center">
-  <a href="https://discordapp.com/users/1086302516418969641"><img width="32" title="Discord" alt="Discord" src="https://github.com/Focuznl/focuznl/tree/main/Images/discord.png">
+  <a href="https://discordapp.com/users/1086302516418969641"><img width="32" title="Discord" alt="Discord" src="https://i.imgur.com/eNaNP8r.png">
   
 </p>
 
