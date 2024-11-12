@@ -1,7 +1,7 @@
 <a align="center">    <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>    </a>
 <p align="center">
-  <a href="https://discordapp.com/users/1086302516418969641"> Discord | <a href="google.com"> Discord
-  
+  <a href="https://discordapp.com/users/1086302516418969641"> Discord> | <a href="google.com"> Discord
+  [discord](https://google.com)
 </p>
 
 
