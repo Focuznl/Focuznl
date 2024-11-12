@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi! I'm Stijn. I'm really into video games. I love playing them and I'm curious about how they're made. That's why I'm learning to code.
-I've started with HTML and CSS. These are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding skills to create my own games and other cool projects.
-I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding!
+Hi! I'm Stijn. I'm really into video games and graphic design. I love playing games and creating visuals. I'm curious about how they're made, so I'm learning to code.
+I've started with HTML and CSS, which are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding and design skills to create my own games, websites, and other cool projects.
+I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding and design!
 
 
 
