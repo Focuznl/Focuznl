@@ -1,4 +1,4 @@
-<h1> VMFocuz </h1>
+<h1 align="Center"> Focuz </h1>
 
 
 ##💫 About Me:
