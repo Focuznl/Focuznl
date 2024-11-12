@@ -1,8 +1,6 @@
 <a align="center">    <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>    </a>
-<p align="center">
-  <a href="https://discordapp.com/users/1086302516418969641"> Discord<a> | </a><a href="mailto:stijnfddevries@gmail.com"> Mail<a> | </a><a href="https://www.reddit.com/user/Focuznl/"> Reddit<a> | </a><a href="https://www.instagram.com/stijnfddevries?igsh=MTFqZ254c2cxNW9zZA=="> Instagram
-  
-</p>
+<a align="center"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Stijnfddevries) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StijnFDDV) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Focuznl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sdv_2010) [![Codepen](https://img.shields.io/badge/Codepen-000000?&logo=codepen&logoColor=white)](https://codepen.io/Focuz) 
+ </a>
 
 
 
