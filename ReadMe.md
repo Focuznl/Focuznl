@@ -23,3 +23,7 @@ Hi! I'm Stijn. I'm really into video games and graphic design. I love playing ga
 
   ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stijnfddevy) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/focuz) 
+
+  https://imgur.com/a/K634CUq
+
+  https://github.com/Giingu/Giingu/blob/main/README.md?plain=1
