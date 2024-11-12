@@ -3,15 +3,6 @@
 </a>
 <a align="center">
 
- [![Email](https://img.shields.io/badge/Email-your_email@example.com-blue)](mailto:your_email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-your_discord_username-blue)](https://discord.com/users/your_discord_username)
-[![Instagram](https://img.shields.io/badge/Instagram-your_instagram_handle-blue)](https://www.instagram.com/your_instagram_handle)
-[![TikTok](https://img.shields.io/badge/TikTok-your_tiktok_handle-blue)](https://www.tiktok.com/@your_tiktok_handle)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow)](https://www.buymeacoffee.com/your_username)
-[![Ko-fi](https://img.shields.io/badge/Ko-fi-donate-yellow)](https://ko-fi.com/your_username)
-</a>
-
-
 ## 💫 About Me:
 Hi! I'm Stijn. I'm really into video games and graphic design. I love playing games and creating visuals. I'm curious about how they're made, so I'm learning to code.<br>I've started with HTML and CSS, which are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding and design skills to create my own games, websites, and other cool projects.<br>I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding and design!<br>
 
