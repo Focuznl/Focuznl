@@ -1,11 +1,13 @@
-<h1 align="center"> 💫 About Me: </h1>
+<div align="center">
+
+<h1> 💫 About Me: </h1>
 Hi! I'm Stijn. I'm really into video games and graphic design. I love playing games and creating visuals. I'm curious about how they're made, so I'm learning to code.
 I've started with HTML and CSS, which are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding and design skills to create my own games, websites, and other cool projects.
 I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding and design!
 
 
 
-## 🌐 Socials:
+<h2> 🌐 Socials: </h2>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mrfocuz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stijnfddevries) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StijnFDDV) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Focuznl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sdv_2010) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Focuz) 
 
 # 💻 Tech Stack:
@@ -27,4 +29,4 @@ I know it will take time and practice, but I'm determined to keep learning and i
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stijnfddevy) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/focuz) 
 
-  
+</div>
