@@ -1,6 +1,10 @@
-<picture align="center">
-<img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>
-</picture>
+<a align="center">    <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>    </a>
+<p align="center">
+  <a href="https://discordapp.com/users/1086302516418969641"><img width="32" title="Discord" alt="Discord" src="https://github.com/Focuznl/VMFocuz/tree/main/Images/discord.svg">
+  
+</p>
+
+
 
 
 ## 💫 About Me:
