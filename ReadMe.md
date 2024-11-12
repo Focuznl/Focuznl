@@ -1,3 +1,7 @@
+<div align="center">
+  <h1> Focuz </h1>
+</div>
+
 # 💫 About Me:
 Hi! I'm Stijn. I'm really into video games and graphic design. I love playing games and creating visuals. I'm curious about how they're made, so I'm learning to code.<br>I've started with HTML and CSS, which are the building blocks of websites. I'm excited to learn more and try new things. I hope to use my coding and design skills to create my own games, websites, and other cool projects.<br>I know it will take time and practice, but I'm determined to keep learning and improve. I can't wait to see what I can accomplish with coding and design!<br>
 
@@ -9,10 +13,7 @@ Hi! I'm Stijn. I'm really into video games and graphic design. I love playing ga
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VMFocuz&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VMFocuz&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VMFocuz&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=VMFocuz&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
