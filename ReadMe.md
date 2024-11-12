@@ -1,6 +1,6 @@
 <a align="center">    <img src=https://github.com/Focuznl/VMFocuz/blob/main/Images/Banner.png>    </a>
 <p align="center">
-  <a href="https://discordapp.com/users/1086302516418969641"> Discord<a> | </a><a href="google.com"> Discord
+  <a href="https://discordapp.com/users/1086302516418969641"> Discord<a> | </a><a href="mailto:stijnfddevries@gmail.com"> Mail<a> | </a><a href="https://www.reddit.com/user/Focuznl/"> Reddit<a> | </a><a href="https://www.instagram.com/stijnfddevries?igsh=MTFqZ254c2cxNW9zZA=="> Instagram
   
 </p>
 
