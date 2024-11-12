@@ -1,4 +1,6 @@
-<h1 align="Center"> Focuz </h1>
+<picture align="center">
+<img src=
+</picture>
 
 
 ## 💫 About Me:
