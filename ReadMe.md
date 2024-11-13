@@ -32,7 +32,3 @@ Hi! I'm Stijn. I'm really into video games and graphic design. I love playing ga
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/focuz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="focuz" /></a><a href="https://ko-fi.com/focuz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="focuz" /></a></p><br><br>
-
-
-
-<iframe src="https://discord.com/widget?id=1305943008499335250&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
