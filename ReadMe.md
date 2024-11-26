@@ -28,6 +28,7 @@ Hi! I'm Stijn. I'm really into video games and graphic design. I love playing ga
 
 <h3 align="left">Request Projects:</h3>
 <a href="https://github.com/Focuznl/Focuznl/issues/new">Submit an issue</a>
+Or Mail at <a href="mailto:Stijnfddevries+PR@gmail.com">Stijnfddevries+PR@gmail.com </a>
 
 
 <h3 align="left">Support:</h3>
