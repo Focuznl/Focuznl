@@ -26,7 +26,7 @@ Hi! I'm Stijn. I'm really into video games and graphic design. I love playing ga
 <a href="https://dribbble.com/focuznl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="focuznl" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Request Projects:</h3>
+<h3 align="left">Request (Rainmeter)Projects:</h3>
 <a href="https://github.com/Focuznl/Focuznl/issues/new">Submit an issue</a>
 Or Mail at <a href="mailto:Stijnfddevries+PR@gmail.com">Stijnfddevries+PR@gmail.com </a>
 
